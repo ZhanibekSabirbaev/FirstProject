@@ -1,0 +1,10 @@
+P=0.2+0
+P2=0.3-0.005*1
+P3=0.1+0.01*2
+P4=0.4+0.01*3
+print(P)
+print(P2)
+print(P3)
+print(P4)
+print(round(P+P2+P3+P4))
+print((P2/P)*P2)
